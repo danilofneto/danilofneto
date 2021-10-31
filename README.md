@@ -3,7 +3,7 @@
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
 <p align='center'>
-    <img src='image.jpg'<
+    <img src='image2.jpg'<
 </p>
 
 # Danilo Felipe
