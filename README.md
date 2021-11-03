@@ -51,5 +51,5 @@ In this project, i developed a Machine Learning model able to forescat sales wit
 In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company.
 In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. The performance of the model in identifying the customer who will enter in churn period is **86%**, which represents an additional **U$ 16 million in revenue**, as described in the project.
 
-### [Health Insurance Cross-Sell](  ) 
+### [Health Insurance Cross-Sell]( https://github.com/danilofneto/cross_sell ) 
 On going
