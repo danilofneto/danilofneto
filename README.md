@@ -37,7 +37,7 @@ The details of each solution are described in the projects below.
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danilo-neto/)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilofelipeneto@gmail.com)](mailto:danilofelipeneto@gmail.com)
-* [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://danilofelipeneto.medium.com/)
+* <a href="https://danilofelipeneto.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
 
 ## Data Science Projects:
