@@ -11,6 +11,8 @@ The main objective of this data science personal project portfolio is to demonst
 
 I have a degree in Computer Engineering, where I started studying machine learning and since then my love for the insights we can take based on data has only grown.
 
+Currently studying the MBA Data Science & Analytics at the University of São Paulo (USP)
+
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
 I have already developed solutions for important business problems such as detecting Sales Forecasting, identifying customers in churn and prioritizing customers for cross-selling.
@@ -49,7 +51,12 @@ In this project, i developed a Machine Learning model able to forescat sales wit
 ### [Churn Prediciton]( https://github.com/danilofneto/Churn_Predict ) 
 
 In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company.
+
 In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. The performance of the model in identifying the customer who will enter in churn period is **86%**, which represents an additional **U$ 16 million in revenue**, as described in the project.
 
 ### [Health Insurance Cross-Sell]( https://github.com/danilofneto/cross_sell ) 
-On going
+In this project I used learning to rank techniques to sort through an insurance company's customer base which ones are more likely to subscribe to vehicle insurance.
+
+the results obtained in our machine learning model are made available to the call center sector from an API connected to Google Sheets that performs the ranking of customers in real time.
+
+Simulating 20,000 leads the proposed model is about 2.5 times better than random choice yielding a return of $2.9 Million to the company.
